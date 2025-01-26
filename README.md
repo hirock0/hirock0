@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.ibb.co.com/pf8LDsJ/HIROCKR.jpg" width="30%" style="border-radius: 50%;"/>
+  <img src="https://i.ibb.co.com/pf8LDsJ/HIROCKR.jpg" width="200" height="200" style="border-radius: 50%;"/>
 </div>
 <h2> Hey there! I'm Hirock Dutta. <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>

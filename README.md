@@ -3,10 +3,20 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- <a href="https://www.instagram.com/"><img src="https://img.shields.io/badge/instagram%20@hirock?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-- <a href="https://www.instagram.com/"><img src="https://img.shields.io/badge/facebook%20@hirock?style=for-the-badge&logo=facebook&logoColor=white"/></a>
-- <a href="https://www.instagram.com/"><img src="https://img.shields.io/badge/twitter%20@hirock?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-- <a href=""><img height="30px" src="https://img.shields.io/badge/My%20hirock?style=for-the-badge&logo=google%20chrome&logoColor=white"/></a>
+<div align="center">
+  <a href="https://www.instagram.com/">
+    <img src="https://img.shields.io/badge/instagram%20@hirock-833AB4?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="https://www.facebook.com/">
+    <img src="https://img.shields.io/badge/facebook%20@hirock-4267B2?style=for-the-badge&logo=facebook&logoColor=white"/>
+  </a>
+  <a href="https://www.twitter.com/">
+    <img src="https://img.shields.io/badge/twitter%20@hirock-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+  </a>
+  <a href="">
+    <img height="30px" src="https://img.shields.io/badge/My%20Website-hirock-4285F4?style=for-the-badge&logo=google%20chrome&logoColor=white"/>
+  </a>
+</div>
 
 <h3>🛠 Tech Stack</h3>
 

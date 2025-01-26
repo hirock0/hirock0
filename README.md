@@ -1,8 +1,8 @@
 <div align="center">
-  <img src="your-banner-image-url" alt="Your Name" width="100%"/>
+  <img src="[your-banner-image-url](https://i.ibb.co.com/pf8LDsJ/HIROCKR.jpg)" alt="Hirock" width="100%"/>
 </div>
 
-# Hi 👋, I'm [Your Name]
+# Hi 👋, I'm Hirock
 
 **🌟 Passionate Full-Stack Developer | MERN Stack Enthusiast**
 

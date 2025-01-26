@@ -1,6 +1,8 @@
 <div align="center">
   <img src="https://i.ibb.co.com/pf8LDsJ/HIROCKR.jpg" alt="Hirock Dutta" width="30%"/>
-<h1 style="color: red;">Hirock Web Dev.</h1>
+<text xmlns="http://www.w3.org/2000/svg" x="0" y="0" class="header" data-testid="header">
+  Hirock Dutta
+</text>
 </div>
 
 # Hi 👋, I'm [Your Name]

@@ -1,6 +1,6 @@
 <div align="center">
   <a href="#">
-    <img src="https://i.ibb.co.com/wrWGTkN/banner-hirock.png" width="100%" height="100%" alt="Hirock"/>
+    <img src="https://i.ibb.co.com/dcBmzKG/Hirock-dutta-2.png" width="100%" height="100%" alt="Hirock"/>
   </a>
 </div>
 <h2> Hey there! I'm Hirock Dutta. <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>

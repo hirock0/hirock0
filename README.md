@@ -1,55 +1,40 @@
-<div align="center">
-  <img src="https://i.ibb.co.com/pf8LDsJ/HIROCKR.jpg" alt="Hirock Dutta" width="30%"/>
-<text xmlns="http://www.w3.org/2000/svg" x="0" y="0" class="header" data-testid="header">
-  Hirock Dutta
-</text>
-</div>
+<h2> Hey there! I'm souvik. <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
 
-# Hi 👋, I'm [Your Name]
+<h3> 👨🏻‍💻 About Me </h3>
 
-**🌟 Passionate Full-Stack Developer | MERN Stack Enthusiast**
+- 🔭 &nbsp; I’m currently learning Flutter Application Development
+- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
+- 🎓 &nbsp; Studying Computer Science, computer programming and Mathematics.
+- 💼 &nbsp; Android developer and front-end web developer.
+- 🌱 &nbsp; Enthusiast in cyber Security and Artificial Intelligence .
+- ✍️ &nbsp; Watching Anime and trying out latest design trends as hobbies/side hustles.
+- ☕ &nbsp; I belive, a perfect cup of coffee can be the ultimate solution for any stress. 
 
-I specialize in creating scalable, visually appealing, and functional web applications. Currently, I am working on [your current focus or project]. I love exploring new technologies and strive to stay updated with the latest trends.
+<h3>🛠 Tech Stack</h3>
 
----
+- 💻 &nbsp; Python | Dart | Java | C++  
+- 🌐 &nbsp; Android | flutter | HTML | CSS | JavaScript | Bootstrap 
+- 🛢 &nbsp; MySQL | Firebase | Xampp
+- 🔧 &nbsp; Android Studio | PyCharm | Visual Studio code | Eclipse | Git
+- 🖥 &nbsp; Adobe Xd | Illustrator | Photoshop | OpenShot
 
-### 🌐 Connect with Me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](your-linkedin-url)
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github&logoColor=white)](your-github-url)
-[![Twitter](https://img.shields.io/badge/Twitter-blue?style=flat-square&logo=twitter&logoColor=white)](your-twitter-url)
-[![Portfolio](https://img.shields.io/badge/Portfolio-purple?style=flat-square&logo=internetexplorer&logoColor=white)](your-portfolio-url)
-[![Email](https://img.shields.io/badge/Email-red?style=flat-square&logo=gmail&logoColor=white)](mailto:your-email)
+<br>
 
----
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=devSouvik&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="devSouvik's Github Stats">
 
-### 🚀 Languages and Tools:
+</br>
 
-#### Frontend:
-![HTML](https://img.shields.io/badge/-HTML-orange?logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS-blue?logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?logo=javascript&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white)
-![Redux](https://img.shields.io/badge/-Redux-purple?logo=redux&logoColor=white)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devSouvik&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/devSouvik/github-readme-stats)
 
-#### Backend:
-![Node.js](https://img.shields.io/badge/-Node.js-green?logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/-Express-black?logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-brightgreen?logo=mongodb&logoColor=white)
 
-#### Tools:
-![Git](https://img.shields.io/badge/-Git-orange?logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VSCode-blue?logo=visual-studio-code&logoColor=white)
-![Postman](https://img.shields.io/badge/-Postman-orange?logo=postman&logoColor=white)
-![Figma](https://img.shields.io/badge/-Figma-purple?logo=figma&logoColor=white)
+<h3> 🤝🏻 Connect with Me </h3>
 
----
+<p align="center">
+&nbsp; <a href="https://twitter.com/_souvik_guria" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/twitter.png" width="50" /></a>  
+&nbsp; <a href="https://www.instagram.com/the_caffeine__addict/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/instagram-new.png" width="50" /></a>  
+&nbsp; <a href="https://www.linkedin.com/in/souvik-guria-/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
+&nbsp; <a href="mailto:souvikguria98@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
+</p>
 
-### 📊 GitHub Stats:
-![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical)
-
----
-
-### 📌 Current Projects:
-- **[Project Name](project-link)**: Brief description.
-- **[Project Name](project-link)**: Brief description.
+⭐️ From [devSouvik](https://github.com/devSouvik)

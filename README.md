@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="your-banner-image-url](https://i.ibb.co.com/pf8LDsJ/HIROCKR.jpg" alt="Hirock" width="100%"/>
+  <img src="https://i.ibb.co.com/pf8LDsJ/HIROCKR.jpg" alt="Hirock" width="100%"/>
 </div>
 
 # Hi 👋, I'm Hirock

@@ -63,7 +63,7 @@
 
  <h3 align="center">🌍 Connect with Me </h3> 
 <div align="center">
-    <a href="linkedin.com/in/hirock-dutta-196a7a267">
+    <a href="https://www.linkedin.com/in/hirock-dutta-196a7a267/">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="linkedin logo"  />
   </a>
   <a href="https://www.facebook.com/profile.php?id=100028605347325">

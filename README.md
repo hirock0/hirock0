@@ -3,17 +3,17 @@
   <img src="https://res.cloudinary.com/dusp1j4e0/image/upload/v1738693879/GitHub%20Profile/GitHub_banner_a7jsej.png" alt="hirock" />
 </p>
 
-<h1 align="center">Hi, I'm YOUR NAME 👋</h1>
-<h3 align="center">YOUR DESIGNATION | YOUR SPECIALIZATION</h3>
+<h1 align="center">Hi, I'm Hirock Dutta 👋</h1>
+<h3 align="center">MERN STACK | FULL STACK</h3>
 
 ---
 
 ## 🚀 About Me
-- 🌱 I’m currently learning **Next.js, TypeScript, and Cloud Computing**
-- 💻 I’m working on **a tourism website project**
-- 📖 I’m exploring **AI & Machine Learning applications in web development**
-- 🎯 My goal is to **become a full-stack developer and contribute to open-source**
-- 📫 Reach me at **your.email@example.com**
+- 🌱 I’m currently learning **Next.js, TypeScript**
+- 💻 I’m working on **a real time chat messenger**
+- 📖 I’m exploring **AI in web development**
+- 🎯 My goal is to **become a full-stack developer and contribute to get a job.**
+- 📫 Reach me at **hirockdutta0@gmail.com**
 
 ---
 

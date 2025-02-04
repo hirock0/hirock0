@@ -60,7 +60,7 @@
 
 ---
 
-## 🌍 Connect with Me  
+ <h3 align="center">## 🌍 Connect with Me </h3> 
 <p align="left">
   <a href="https://github.com/YOUR_GITHUB_USERNAME" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />

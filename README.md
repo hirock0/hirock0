@@ -80,7 +80,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=hirock0&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="GitHub Stats" />
-  <img src="https://streak-stats.demolab.com/?user=hirock0&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" />
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-peach-eta.vercel.app?user=hirock0" alt="GitHub Streak" /></a>
 </div>
 
 ---

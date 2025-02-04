@@ -77,17 +77,12 @@
 ---
 
 ## 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=dark" alt="GitHub Streak Stats" />
-</p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dark" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=dark" alt="Top Languages" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hirock0&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com?user=hirock0&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hirock0&layout=compact&theme=dracula&hide_border=false&order=2" height="150" alt="Top Languages" />
+</div>
 
 ---
 

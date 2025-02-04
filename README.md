@@ -76,7 +76,7 @@
 
 ---
 
-📊 GitHub Stats  
+###📊 GitHub Stats  
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=dark" alt="GitHub Streak Stats" />
 </p>

@@ -4,7 +4,7 @@
 </p>
 
 <h1 align="center">Hi, I'm Hirock Dutta 👋</h1>
-<h3 align="center">MERN STACK | FULL STACK</h3>
+<h3 align="center">MERN STACK | FULL STACK WEB DEVELOPER</h3>
 
 ---
 
@@ -12,7 +12,7 @@
 - 🌱 I’m currently learning **Next.js, TypeScript**
 - 💻 I’m working on **a real time chat messenger**
 - 📖 I’m exploring **AI in web development**
-- 🎯 My goal is to **become a full-stack developer and contribute to get a job.**
+- 🎯 My goal is to **become a full-stack developer and to get a job.**
 - 📫 Reach me at **hirockdutta0@gmail.com**
 
 ---

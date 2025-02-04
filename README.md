@@ -62,17 +62,17 @@
 ---
 
  <h3 align="center">🌍 Connect with Me </h3> 
-<p align="left">
-  <a href="https://github.com/YOUR_GITHUB_USERNAME" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
+<div align="center">
+    <a href="linkedin.com/in/hirock-dutta-196a7a267">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="linkedin logo"  />
   </a>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />
+  <a href="https://www.facebook.com/profile.php?id=100028605347325">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" height="40" alt="facebook logo"  />
   </a>
-  <a href="https://twitter.com/YOUR_TWITTER_HANDLE" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" />
+  <a href="https://www.instagram.com/hirockdutta1998/">
+  <img src="https://skillicons.dev/icons?i=instagram" height="40" alt="instagram logo"  />
   </a>
-</p>
+</div>
 
 ---
 

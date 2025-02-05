@@ -7,7 +7,7 @@
 <h3 align="center">MERN STACK | FULL STACK WEB DEVELOPER</h3>
 
 ---
-<div align="center">
+<div>
   <div>
   ## 🚀 About Me
   - 🌱 I’m currently learning **Next.js, TypeScript**
@@ -17,7 +17,7 @@
   - 📫 Reach me at **hirockdutta0@gmail.com**
   </div>
   <div>
-    <img height="" src="https://res.cloudinary.com/dusp1j4e0/image/upload/v1738729071/GitHub%20Profile/tec-horick_qw1dtp.gif"  />
+    <img height="200" src="https://res.cloudinary.com/dusp1j4e0/image/upload/v1738729071/GitHub%20Profile/tec-horick_qw1dtp.gif"  />
   </div>
 </div>
 ---

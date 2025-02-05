@@ -7,17 +7,19 @@
 <h3 align="center">MERN STACK | FULL STACK WEB DEVELOPER</h3>
 
 ---
-<div>
+<div style="display: flex; align-items: center; justify-content: space-between;">
   <div>
-  ## 🚀 About Me
-  - 🌱 I’m currently learning **Next.js, TypeScript**
-  - 💻 I’m working on **a real time chat messenger**
-  - 📖 I’m exploring **AI in web development**
-  - 🎯 My goal is to **become a full-stack developer and to get a job.**
-  - 📫 Reach me at **hirockdutta0@gmail.com**
+    <h2>🚀 About Me</h2>
+    <ul>
+      <li>🌱 I’m currently learning <b>Next.js, TypeScript</b></li>
+      <li>💻 I’m working on <b>a real-time chat messenger</b></li>
+      <li>📖 I’m exploring <b>AI in web development</b></li>
+      <li>🎯 My goal is to <b>become a full-stack developer and to get a job.</b></li>
+      <li>📫 Reach me at <b>hirockdutta0@gmail.com</b></li>
+    </ul>
   </div>
   <div>
-     <img src="https://res.cloudinary.com/dusp1j4e0/image/upload/v1738730429/GitHub%20Profile/light_gif-1_prz7g1.gif" width="300px">
+    <img src="https://res.cloudinary.com/dusp1j4e0/image/upload/v1738730429/GitHub%20Profile/light_gif-1_prz7g1.gif" width="300px">
   </div>
 </div>
 

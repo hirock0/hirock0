@@ -97,7 +97,7 @@
  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hirock0&bg_color=000000&color=d800db&line=00ffbf&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph" alt="GitHub Graph" />
 
 
- <img src="https://res.cloudinary.com/dusp1j4e0/image/upload/v1738729071/GitHub%20Profile/tec-horick_qw1dtp.gif" width="300px">
+ <img src="https://res.cloudinary.com/dusp1j4e0/image/upload/v1738730429/GitHub%20Profile/light_gif-1_prz7g1.gif" width="300px">
 
 ---
 

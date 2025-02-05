@@ -78,9 +78,6 @@
   <a href="https://www.facebook.com/profile.php?id=100028605347325">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" height="40" alt="facebook logo"  />
   </a>
-  <a href="https://www.instagram.com/hirockdutta1998/">
-  <img src="https://skillicons.dev/icons?i=instagram" height="40" alt="instagram logo"  />
-  </a>
 </div>
 
 ---
@@ -90,6 +87,9 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=hirock0&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="200" alt="GitHub Stats" />
   <img src="https://hirock0-github-readme-streak-stats.vercel.app?user=hirock0&theme=dracula&card_width=500&card_height=200" alt="GitHub Streak" />
+</div>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hirock0&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
 ---

@@ -7,21 +7,24 @@
 <h3 align="center">MERN STACK | FULL STACK WEB DEVELOPER</h3>
 
 ---
-<div style="display: flex; align-items: center; justify-content: space-between;">
-  <div>
-    <h2>🚀 About Me</h2>
-    <ul>
-      <li>🌱 I’m currently learning <b>Next.js, TypeScript</b></li>
-      <li>💻 I’m working on <b>a real-time chat messenger</b></li>
-      <li>📖 I’m exploring <b>AI in web development</b></li>
-      <li>🎯 My goal is to <b>become a full-stack developer and to get a job.</b></li>
-      <li>📫 Reach me at <b>hirockdutta0@gmail.com</b></li>
-    </ul>
-  </div>
-  <div>
-    <img src="https://res.cloudinary.com/dusp1j4e0/image/upload/v1738730429/GitHub%20Profile/light_gif-1_prz7g1.gif" width="300px">
-  </div>
-</div>
+## 🚀 About Me
+
+<table>
+  <tr>
+    <td>
+      <ul>
+        <li>🌱 I’m currently learning <b>Next.js, TypeScript</b></li>
+        <li>💻 I’m working on <b>a real-time chat messenger</b></li>
+        <li>📖 I’m exploring <b>AI in web development</b></li>
+        <li>🎯 My goal is to <b>become a full-stack developer and to get a job.</b></li>
+        <li>📫 Reach me at <b>hirockdutta0@gmail.com</b></li>
+      </ul>
+    </td>
+    <td>
+      <img src="https://res.cloudinary.com/dusp1j4e0/image/upload/v1738730429/GitHub%20Profile/light_gif-1_prz7g1.gif" width="300px">
+    </td>
+  </tr>
+</table>
 
 ---
 

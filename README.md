@@ -96,6 +96,46 @@
 
  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hirock0&bg_color=000000&color=d800db&line=00ffbf&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph" alt="GitHub Graph" />
 
+---
+
+
+<svg width="500" height="500" viewBox="0 0 500 500" xmlns="http://www.w3.org/2000/svg">
+  <!-- Desk -->
+  <rect x="50" y="300" width="400" height="20" fill="#8B5A2B" />
+  
+  <!-- Computer -->
+  <rect x="200" y="200" width="100" height="60" fill="#333" />
+  <rect x="220" y="210" width="60" height="40" fill="#000" />
+  <text x="230" y="235" font-size="12" fill="lime" id="code-text">Hello!</text>
+  
+  <!-- Man -->
+  <circle cx="250" cy="150" r="30" fill="#F1C27D" />
+  <rect x="220" y="180" width="60" height="80" fill="#4682B4" />
+  <rect x="200" y="260" width="30" height="40" fill="#F1C27D" />
+  <rect x="270" y="260" width="30" height="40" fill="#F1C27D" />
+  
+  <animateTransform 
+    attributeType="XML" 
+    attributeName="transform" 
+    type="translate" 
+    values="0,0; 2,0; 0,0" 
+    dur="0.5s" 
+    repeatCount="indefinite" />
+  
+  <script type="application/ecmascript">
+    <![CDATA[
+      (function animateText() {
+        let textElement = document.getElementById('code-text');
+        let texts = ["Hello!", "console.log('Hi!');", "<h1>Code</h1>"];
+        let i = 0;
+        setInterval(() => {
+          textElement.textContent = texts[i];
+          i = (i + 1) % texts.length;
+        }, 1000);
+      })();
+    ]]>
+  </script>
+</svg>
 
 
 ### 🚀 Let's Build Something Amazing Together! 😃

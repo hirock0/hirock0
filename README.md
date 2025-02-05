@@ -7,13 +7,19 @@
 <h3 align="center">MERN STACK | FULL STACK WEB DEVELOPER</h3>
 
 ---
-
+<div>
+  <div>
   ## 🚀 About Me
   - 🌱 I’m currently learning **Next.js, TypeScript**
   - 💻 I’m working on **a real time chat messenger**
   - 📖 I’m exploring **AI in web development**
   - 🎯 My goal is to **become a full-stack developer and to get a job.**
   - 📫 Reach me at **hirockdutta0@gmail.com**
+  </div>
+  <div>
+     <img src="https://res.cloudinary.com/dusp1j4e0/image/upload/v1738730429/GitHub%20Profile/light_gif-1_prz7g1.gif" width="300px">
+  </div>
+</div>
 
 ---
 
@@ -97,7 +103,7 @@
  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hirock0&bg_color=000000&color=d800db&line=00ffbf&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph" alt="GitHub Graph" />
 
 
- <img src="https://res.cloudinary.com/dusp1j4e0/image/upload/v1738730429/GitHub%20Profile/light_gif-1_prz7g1.gif" width="300px">
+
 
 ---
 

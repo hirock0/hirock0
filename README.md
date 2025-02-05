@@ -98,9 +98,7 @@
 
 ---
 
-  <div>
-    <img height="200" src="https://res.cloudinary.com/dusp1j4e0/image/upload/v1738729071/GitHub%20Profile/tec-horick_qw1dtp.gif"  />
-  </div>
+![GIF](https://res.cloudinary.com/dusp1j4e0/image/upload/v1738729071/GitHub%20Profile/tec-horick_qw1dtp.gif)
 
 
 
